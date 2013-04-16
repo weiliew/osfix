@@ -1,5 +1,4 @@
 This repository contains an open source FIX engine. 
 License information contained in LICENSE file or at http://www.boost.org/LICENSE_1_0.txt
 
-Note: This project is incomplete. Code contained in this projects are a collection of prototypes and libraries. 
-The intention is that the libraries and common code will form the core of the FIX engine.
+Current Status: This project is incomplete. Code contained in this projects are a collection of prototypes and libraries. The intention is that the libraries and common code will form the core of the FIX engine.
