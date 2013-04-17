@@ -1,0 +1,2 @@
+PROCESS_SHARED_DIR(logging)
+ 

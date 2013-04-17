@@ -1,0 +1,2 @@
+set (INCLUDE_TEST_LIBS )
+PROCESS_TEST_DIR(message)
